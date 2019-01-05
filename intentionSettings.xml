@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Declaration/Create Field for Parameter" />
+  </component>
+</application>

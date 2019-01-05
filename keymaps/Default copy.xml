@@ -1,0 +1,77 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CloseAllUnmodifiedEditors">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Debugger.EditTypeSource">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Editor Undo" />
+  <action id="EditorDeleteLine" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="FindInPath" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="GuiDesigner.ExpandSelection" />
+  <action id="GuiDesigner.ShrinkSelection" />
+  <action id="IDEtalk.ViewFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="SaveAll" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ThePlugin.JIRA.ShowHideJIRATab" />
+</keymap>

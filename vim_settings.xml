@@ -1,0 +1,176 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/mcrouter/McRouterService.java" timestamp="1519017125765">
+        <mark key="'" line="75" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1519289987969">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mcrouter-agent/src/main/java/com/coupang/mcragent/configurations/ApplicationConfig.java" timestamp="1517474406565">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="99" />
+        <mark key="." line="20" column="49" />
+        <mark key="^" line="20" column="49" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/main/java/com/coupang/cachefarm/interfaces/controller/dto/v2/RoleDto.java" timestamp="1519289139988">
+        <mark key="[" line="46" column="40" />
+        <mark key="]" line="46" column="39" />
+        <mark key="." line="46" column="39" />
+        <mark key="^" line="46" column="39" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/test/groovy/com/coupang/cachefarm/interfaces/controller/dto/McrouterDtoGroovyTest.groovy" timestamp="1519280064637">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="59" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/main/java/com/coupang/cachefarm/interfaces/controller/api/v2/RoleController.java" timestamp="1519279374395">
+        <mark key="'" line="4" column="58" />
+        <mark key="[" line="30" column="48" />
+        <mark key="]" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+        <mark key="^" line="30" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mcrouter-agent/src/test/java/com/coupang/mcragent/domain/servicediscovery/ServiceDiscoveryServiceTest.java" timestamp="1517474418437">
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="15" column="96" />
+        <mark key="." line="15" column="96" />
+        <mark key="^" line="15" column="96" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/main/java/com/coupang/cachefarm/interfaces/controller/dto/v2/McRouterDto.java" timestamp="1519019010602">
+        <mark key="[" line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/role/Role.java" timestamp="1519280546763">
+        <mark key="'" line="71" column="26" />
+      </file>
+      <file name="/a.dummy" timestamp="1519279318812">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/test/groovy/com/coupang/cachefarm/interfaces/controller/dto/v2/RoleDtoV2Spec.groovy" timestamp="1519289086287">
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="49" column="7" />
+        <mark key="." line="49" column="7" />
+        <mark key="^" line="49" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/main/java/com/coupang/cachefarm/interfaces/utils/typeMappers/RoleTypeMapper.java" timestamp="1519279224302">
+        <mark key="'" line="7" column="87" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/main/java/com/coupang/cachefarm/interfaces/controller/dto/v1/RoleDto.java" timestamp="1519279232300">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="34" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="34" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mcrouter-agent/src/main/java/com/coupang/mcragent/domain/servicediscovery/ServiceDiscoveryService.java" timestamp="1517474796655">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="34" />
+      </file>
+      <file name="/fragment.java" timestamp="1517474589859">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="27" column="13" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/mcrouter/McRouterService.java" />
+      <jump line="75" column="34" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/mcrouter/McRouterService.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/main/java/com/coupang/cachefarm/interfaces/utils/typeMappers/RoleTypeMapper.java" />
+      <jump line="14" column="99" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/main/java/com/coupang/cachefarm/interfaces/utils/typeMappers/RoleTypeMapper.java" />
+      <jump line="3" column="55" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/main/java/com/coupang/cachefarm/interfaces/utils/typeMappers/RoleTypeMapper.java" />
+      <jump line="9" column="87" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/main/java/com/coupang/cachefarm/interfaces/utils/typeMappers/RoleTypeMapper.java" />
+      <jump line="4" column="58" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-app/src/main/java/com/coupang/cachefarm/interfaces/controller/api/v2/RoleController.java" />
+      <jump line="23" column="3" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/role/Role.java" />
+      <jump line="72" column="53" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/role/Role.java" />
+      <jump line="39" column="23" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/role/Role.java" />
+      <jump line="58" column="26" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/role/Role.java" />
+      <jump line="60" column="53" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/role/Role.java" />
+      <jump line="62" column="32" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/role/Role.java" />
+      <jump line="65" column="21" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/role/Role.java" />
+      <jump line="71" column="26" filename="$USER_HOME$/IdeaProjects/cachefarm-admin/cachefarm-admin-domain/src/main/java/com/coupang/cachefarm/domain/models/role/Role.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkdG8uc2V0Q3JlYXRlZEF0KHJvbGUuZ2V0Q3JlYXRlZEF0KCkpOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>OffsetDateTime.now()</text>
+      </register>
+      <register name="/" type="4">
+        <text>memcached</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkdG8uc2V0Q3JlYXRlZEF0KHJvbGUuZ2V0Q3JlYXRlZEF0KCkpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkdC4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBNY1JvdXRlciBtY1JvdXRlciA9IG5ldyBNY1JvdXRlcigpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>public Role convertToEntity() {
+        return ModelMapperUtils.map(this, Role.class);
+    }</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIFJvbGVEdG8gY29udmVydEZyb20oUm9sZSByb2xlKSB7CiAgICAgICAgcmV0dXJuIFJvbGVUeXBlTWFwcGVyLm1hcChyb2xlKTsKICAgIH0=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>memcached</last-search>
+      <last-offset />
+      <last-pattern>memcached</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>find</entry>
+        <entry>v1</entry>
+        <entry>RoleDto</entry>
+        <entry>memcachedId</entry>
+        <entry>memcached</entry>
+      </history-search>
+      <history-cmd>
+        <entry>0</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

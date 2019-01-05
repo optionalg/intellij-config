@@ -1,0 +1,415 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="checkstyle-version" value="8.13" />
+            <entry key="copy-libs" value="false" />
+            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+            <entry key="scan-before-checkin" value="false" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+          </map>
+        </option>
+      </component>
+      <component name="CheckStyle-IDEA-workspace">
+        <option name="configuration">
+          <map>
+            <entry key="last-active-plugin-version" value="5.23.0" />
+          </map>
+        </option>
+      </component>
+      <component name="CompilerConfiguration">
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true" />
+        </annotationProcessing>
+        <bytecodeTargetLevel target="1.8" />
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/IdeaProjects/Chok" value="2856156516000" />
+            <entry key="$USER_HOME$/IdeaProjects/JsonPath" value="7168645905000" />
+            <entry key="$USER_HOME$/IdeaProjects/abtest" value="8700628506000" />
+            <entry key="$USER_HOME$/IdeaProjects/api-gateway" value="5795822280000" />
+            <entry key="$USER_HOME$/IdeaProjects/api-manager" value="10045350994000" />
+            <entry key="$USER_HOME$/IdeaProjects/backoffice-auth" value="11892933224000" />
+            <entry key="$USER_HOME$/IdeaProjects/batch-template" value="1436938859000" />
+            <entry key="$USER_HOME$/IdeaProjects/benefit" value="8647981808000" />
+            <entry key="$USER_HOME$/IdeaProjects/booking" value="8774028186000" />
+            <entry key="$USER_HOME$/IdeaProjects/booking-web" value="4386816132000" />
+            <entry key="$USER_HOME$/IdeaProjects/buybox" value="8651695980000" />
+            <entry key="$USER_HOME$/IdeaProjects/cart" value="11756189424000" />
+            <entry key="$USER_HOME$/IdeaProjects/cart/demo2" value="1479362423000" />
+            <entry key="$USER_HOME$/IdeaProjects/coupang" value="12921656443000" />
+            <entry key="$USER_HOME$/IdeaProjects/coupang-development-support" value="8568213521000" />
+            <entry key="$USER_HOME$/IdeaProjects/coupang-development-support-temp" value="8575337468000" />
+            <entry key="$USER_HOME$/IdeaProjects/coupang-legacy" value="2891677494000" />
+            <entry key="$USER_HOME$/IdeaProjects/coupang-mobile-api" value="8751692977000" />
+            <entry key="$USER_HOME$/IdeaProjects/coupang-mobile-web" value="7398955291000" />
+            <entry key="$USER_HOME$/IdeaProjects/coupang-web" value="8882315106000" />
+            <entry key="$USER_HOME$/IdeaProjects/coupon" value="8665246188000" />
+            <entry key="$USER_HOME$/IdeaProjects/customer-service" value="8722849015000" />
+            <entry key="$USER_HOME$/IdeaProjects/display" value="8637315331000" />
+            <entry key="$USER_HOME$/IdeaProjects/dynamic-index" value="8556813432000" />
+            <entry key="$USER_HOME$/IdeaProjects/escrow" value="10084480231000" />
+            <entry key="$USER_HOME$/IdeaProjects/external-api" value="8581387902000" />
+            <entry key="$USER_HOME$/IdeaProjects/finance" value="8647560162000" />
+            <entry key="$USER_HOME$/IdeaProjects/gradle-node-plugin" value="2913947776000" />
+            <entry key="$USER_HOME$/IdeaProjects/java-coumon" value="5876323608000" />
+            <entry key="$USER_HOME$/IdeaProjects/jooq-vitamin-sample" value="10279809953000" />
+            <entry key="$USER_HOME$/IdeaProjects/marketing-watch" value="8868928326000" />
+            <entry key="$USER_HOME$/IdeaProjects/member" value="18745197199000" />
+            <entry key="$USER_HOME$/IdeaProjects/message" value="8544844320000" />
+            <entry key="$USER_HOME$/IdeaProjects/message_slave" value="8557280203000" />
+            <entry key="$USER_HOME$/IdeaProjects/nps" value="8635026864000" />
+            <entry key="$USER_HOME$/IdeaProjects/open-api" value="10346562730000" />
+            <entry key="$USER_HOME$/IdeaProjects/order" value="11484516404000" />
+            <entry key="$USER_HOME$/IdeaProjects/partner-admin-web" value="11915110972000" />
+            <entry key="$USER_HOME$/IdeaProjects/payment" value="10095971130000" />
+            <entry key="$USER_HOME$/IdeaProjects/price" value="10034379993000" />
+            <entry key="$USER_HOME$/IdeaProjects/product" value="8550176476000" />
+            <entry key="$USER_HOME$/IdeaProjects/product-discovery" value="11867441648000" />
+            <entry key="$USER_HOME$/IdeaProjects/product-review" value="10084615541000" />
+            <entry key="$USER_HOME$/IdeaProjects/rabbitmq-admin" value="8566849837000" />
+            <entry key="$USER_HOME$/IdeaProjects/rabbitmq-admin-slave" value="8566783218000" />
+            <entry key="$USER_HOME$/IdeaProjects/rabbitmq-admin-test" value="8569048947000" />
+            <entry key="$USER_HOME$/IdeaProjects/rabbitmq-admin-urgent-patch" value="8573921964000" />
+            <entry key="$USER_HOME$/IdeaProjects/rabbitmq-develop-support" value="10021976230000" />
+            <entry key="$USER_HOME$/IdeaProjects/rabbitmq-development-support" value="1427793809000" />
+            <entry key="$USER_HOME$/IdeaProjects/release-valve" value="8719085598000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/announce" value="2848069356000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/application" value="1424034678000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/buildDashboard" value="1424034678000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/clientModuleDependencies" value="5696138712000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/codeQuality" value="1424034678000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/componentMetadataRules" value="1424034678000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/componentSelectionRules" value="1424034678000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/coupang-web" value="8544885144000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/customBuildLanguage" value="9968242746000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/customComponent" value="1424034678000" />
+            <entry key="$USER_HOME$/IdeaProjects/samples/idea" value="1424034678000" />
+            <entry key="$USER_HOME$/IdeaProjects/script-commander" value="5765399688000" />
+            <entry key="$USER_HOME$/IdeaProjects/shield" value="8938405092000" />
+            <entry key="$USER_HOME$/IdeaProjects/shipment" value="8570332962000" />
+            <entry key="$USER_HOME$/IdeaProjects/spring-amqp" value="4284909294000" />
+            <entry key="$USER_HOME$/IdeaProjects/spring-data-study" value="1460961651000" />
+            <entry key="$USER_HOME$/IdeaProjects/spring-development-support" value="1429283034000" />
+            <entry key="$USER_HOME$/IdeaProjects/subscribe-order" value="10066367375000" />
+            <entry key="$USER_HOME$/IdeaProjects/teddy-cart" value="11760306128000" />
+            <entry key="$USER_HOME$/IdeaProjects/thumbnail" value="10127406975000" />
+            <entry key="$USER_HOME$/IdeaProjects/transfer-m-q-sample" value="10087607911000" />
+            <entry key="$USER_HOME$/IdeaProjects/travel" value="8650256958000" />
+            <entry key="$USER_HOME$/IdeaProjects/travel-partners" value="7311692940000" />
+            <entry key="$USER_HOME$/IdeaProjects/triforce-sample" value="8672877462000" />
+            <entry key="$USER_HOME$/IdeaProjects/uidev-guide/example/frontend" value="10019244753000" />
+            <entry key="$USER_HOME$/IdeaProjects/valve" value="10239507544000" />
+            <entry key="$USER_HOME$/IdeaProjects/valve-client" value="10155359606000" />
+            <entry key="$USER_HOME$/IdeaProjects/valve-master" value="10253827283000" />
+            <entry key="$USER_HOME$/IdeaProjects/valve-release" value="8731531392000" />
+            <entry key="$USER_HOME$/IdeaProjects/valve-test" value="10213983476000" />
+            <entry key="$USER_HOME$/IdeaProjects/vertx-examples" value="1428665178000" />
+            <entry key="$USER_HOME$/IdeaProjects/vertxtest_vitamin" value="4285979391000" />
+            <entry key="$USER_HOME$/IdeaProjects/vitamin-boot-project" value="32702280150000" />
+            <entry key="$USER_HOME$/IdeaProjects/vitamin-development-support" value="10004169931000" />
+            <entry key="$USER_HOME$/IdeaProjects/vitamin-initializr" value="8940506754000" />
+            <entry key="$USER_HOME$/IdeaProjects/vitamin-rabbitmq-sample" value="8549082258000" />
+            <entry key="$USER_HOME$/IdeaProjects/vitamin-react-sample" value="5957586926000" />
+            <entry key="$USER_HOME$/IdeaProjects/willBeDeleted" value="1479361374000" />
+            <entry key="$USER_HOME$/IdeaProjects/willBeDeleted/demo" value="1479361482000" />
+            <entry key="$USER_HOME$/IdeaProjects/willBeDeleted/demo2" value="1479361771000" />
+            <entry key="$USER_HOME$/IdeaProjects/willBeDeleted/demo23" value="1479361938000" />
+            <entry key="$USER_HOME$/IdeaProjects/willBeDeleted/demo346" value="1479362246000" />
+            <entry key="$USER_HOME$/IdeaProjects/wms-fulfillment" value="8615352210000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/IdeaProjects/boa-2" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/boa/boa-api-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/cart" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/cdn-file-uploader" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/dropship" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/java-coumon" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/monitoring-collector" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/plan-your-days" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/valve" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="FLOW" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="MarkdownProjectSettings" wasCopied="true">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="false" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="false" synchronizeSourcePosition="false" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="0" emojiImages="0">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="true" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="false" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="false" />
+            <option name="HTML_DEEP_PARSER" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="ADMONITION_EXT" value="false" />
+            <option name="ATTRIBUTES_EXT" value="false" />
+            <option name="COMMONMARK_LISTS" value="false" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="ENUMERATED_REFERENCES_EXT" value="false" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="true" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_LISTS" value="true" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="GITLAB_EXT" value="false" />
+            <option name="GITLAB_MATH_EXT" value="false" />
+            <option name="GITLAB_MERMAID_EXT" value="false" />
+            <option name="HEADER_ID_NON_ASCII_TO_LOWERCASE" value="false" />
+            <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="MACROS_EXT" value="false" />
+            <option name="NO_TEXT_ATTRIBUTES" value="false" />
+            <option name="PARSE_HTML_ANCHOR_ID" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+          <cssUriHistory />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetPathType="2" targetExt="" useTargetExt="false" noCssNoScripts="false" useElementStyleAttribute="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Internationalization</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Security</id>
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit issues</id>
+              </State>
+              <State>
+                <id>Gradle</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>Probable bugsGradle</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring AOPSpring</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="last_opened_file_path" value="/Applications/VisualVM.app/Contents/Resources/visualvm/bin/visualvm" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v6.9.1/bin/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Libraries" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>d3</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

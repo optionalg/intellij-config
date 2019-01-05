@@ -1,0 +1,50 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl windows" />
+  </action>
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="shift 8" />
+  </action>
+  <action id="JavaRebel">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="JavaRebel Debug">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="Refresh" />
+  <action id="SaveAll" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ThePlugin.JIRAIssues.CustomFilter.ViewInBrowser">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+</keymap>
